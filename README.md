@@ -1,2 +1,2 @@
 # SpringREST
-REST api for courses
+REST api for courses object
